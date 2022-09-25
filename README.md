@@ -5,9 +5,9 @@ Hier befinden sich die benötigen Dateien und Ordner für die Übungs-Aufgaben f
 ### Verzeichnis Clonen
 Um dieses Repository herunterzuladen, verwende folgenden Befehl:
 ```
-git clone https://github.com/stefanSchuhbaeck/vk21HM.git
+git clone https://github.com/korbster/vk22HM.git
 ```
 
 ### Übungsaufgaben
 Hier findest du die Übungsaufgaben:
-[https://github.com/stefanSchuhbaeck/vk21HM/wiki](https://github.com/stefanSchuhbaeck/vk21HM/wiki)
+[https://github.com/korbster/vk22HM/wiki](https://github.com/korbster/vk22HM/wiki)
